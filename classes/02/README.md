@@ -22,6 +22,7 @@ liascript-devserver --input README.md --port 3001 --live
 
 # Aula 02: Primeiro contato com Python
 
+Apertem os cintos, vamos decolar com Python: https://www.python.org/
 
 <div style="width:100%;height:0;padding-bottom:52%;position:relative;"><iframe src="https://giphy.com/embed/coxQHKASG60HrHtvkt" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/coxQHKASG60HrHtvkt">via GIPHY</a></p>
 
@@ -32,12 +33,15 @@ liascript-devserver --input README.md --port 3001 --live
 
 Não é bem isso... :-)
 
-Estamos falando de:
+Estamos falando apenas de um computador com...
 
 --{{0}}--
 Trabalhar com programação requer um ambiente minimamente preparado. Não estamos falando necessariamente de um local como este da foto, mas apenas de um computador com software básico para programação.
 
---{{1}}--
+
+### Compilador-Interpretador Python
+
+--{{0}}--
 <section>
 Além de um sistema operacional (Windows, Linux, MacOS, ...), seu computador precisa ter um compilador-interpretador Python instalado ou acessível pela rede.
 
@@ -46,39 +50,44 @@ O **compilador-interpretador** Python é o software que recebe o código de um p
 Para saber mais sobre isso, uma boa referência é o capítulo 3.3 do livro "Simplificando Algoritmos", de Andrés Menéndez (https://integrada.minhabiblioteca.com.br/reader/books/9788521638339).
 </section>
 
-  {{1}}
-Software básico: compilador-interpretador Python
+- Software básico
+- Recebe o código de um programa como entrada
+- Faz com que o computador execute o código
 
-              --{{2}}--
+
+### Integrated Development Environment
+
+              --{{0}}--
 <section>
 Outra ferramenta importante no seu ambiente de trabaho é o que chamamos de IDE, do inglês *Integrated Development Environment*. Um IDE integra 2 recursos essenciais para produtividade na programação: (1) uma área de edição de programas e (2) uma área de execução que aciona o compilador-interpretador. Outros recursos mais avançados também estão disponíveis, mas não nos interessam agora.
 
 Exemplos de IDEs para Python são IDLE (muito simples, instalado junto com o interpretador), PyCharm (ambiente profissional, com muitos recursos), Spyder, VS Code, entre outros.
 </section>
 
-  {{2}}
-<section>
 Ambiente integrado de desenvolvimento (IDE - *Integrated Development Environment*)
 
 - Editor: recursos de correção ortográfica, highlight de sintaxe, etc.
 - Console de execução do compilador-interpretador
 - Outros recursos avançados: depuração/tracing (execução passo-a-passo), controle de versão, etc.
 - Exemplos: IDLE, PyCharm, Spyder, VS Code
-</section>
 
 
-              --{{3}}--
+### IDEs online
+
+              --{{0}}--
 <section>
 Uma tendência moderna são IDEs online, acessíveis pela internet usando apenas o navegador. A grande vantagem é que não precisamos instalar nada, mas dependemos da rede funcionando.
 
 Há vários IDEs online disponíveis gratuitamente. Um bom IDE online é o Repl.it, que tem bons recursos tanto para iniciantes como para quem quiser se aprofundar.
 </section>
 
-    {{3}}
 IDEs online: Repl.it, Trinket, etc.
 
-### IDEs online
 
+              --{{1}}--
+<section>
+ Um bom IDE online é o Repl.it, que tem bons recursos tanto para iniciantes como para quem quiser se aprofundar.
+</section>
 
     {{1}}
 <section> 
@@ -93,6 +102,11 @@ Repl.it
 
 </section> 
 
+              --{{2}}--
+<section>
+ Outro IDE online bem simples é o Trinket. Vamos usá-lo nos primeiros exemplos porque conseguimos embutir este IDE dentro deste material didático, com rápida inicialização do ambiente (ao contrário do Repl.it, que leva mais tempo para iniciar).
+</section>
+
     {{2}}
 <section> 
 Trinket
@@ -105,6 +119,9 @@ Trinket
 
 </section> 
 
+
+
+
     {{3}}
 <section> 
 Outros
@@ -113,6 +130,7 @@ Outros
 - Python Tutor (https://pythontutor.com): voltado para iniciantes, com visualização passo-a-passo da execução
 - Online Python (https://www.online-python.com/): semelhante ao Trinket
 - Programiz (https://www.programiz.com/python-programming/online-compiler/): ambiente simples, acompanha curso online de Python
+- Jupyter Notebooks e Google Colab (https://colab.research.google.com/): plataforma interativa que permite combinar código, anotações e visualizações de dados (em Python ou outras linguagens) - não é especificamente um IDE para Python
 - Há muitos outros, mas atenção: ambientes simples demais escondem muitos detalhes e não valem muito a pena
 </section> 
 
@@ -404,13 +422,19 @@ def func4(x, a, b, c):
 
 #### Erros comuns
 
-> Programação requer **atenção** a detalhes, padrões, regras. 
+                 --{{0}}--
+<section>
 
-Definir funções é um bom exemplo desta afirmação!
+Definir funções é um bom exemplo que requer atenção a detalhes, padrões, regras!
 
 Há sempre um padrão a seguir, ou seja, regras da linguagem que se aplicam tanto a funções simples como a funções mais complexas (com mais símbolos, mais linhas de código). 
 
 Não seguir essas regras ocasiona erros, geralmente acusados pelo interpretador.
+
+</section>
+
+> Programação requer **atenção** a detalhes, padrões, regras. 
+
 
 
 Alguns **erros comuns**:
@@ -468,11 +492,11 @@ Até agora tínhamos nos concentrado em instruções para tarefas de processamen
 
 > Vamos aumentar nosso repertório de comandos!
 
-O programa abaixo está em um arquivo `main.py` do Repl.it. 
+Logo mais, você verá o programa abaixo dentro de um arquivo chamado `main.py` do Repl.it. 
 
 Você notou alguma diferença em relação aos códigos que digitamos no interpretador? 
 
-Você consegue prever o que acontecerá quando clicarmos em `Run`?
+Você consegue prever o que acontecerá quando executarmos este programa?
 
 ```python
 def func(x):
@@ -481,28 +505,42 @@ def func(x):
 print(func(3))
 ```
 
-                 --{{1}}--
-Observe a saída na Console do Repl.it.
-
 
                  {{1}}
 ************************************************
 
-Teste isso no Repl.it! Clique em `Open on Replit` para visualizar melhor as áreas do ambiente.
+Vamos visualizar este programa no Repl.it! 
+
+Tenha paciência para abri-lo na primeira vez!
+
+Clique em `Show files` para abrir o gerenciador de arquivos no Repl.it.
 
 <iframe frameborder="0" width="100%" height="400px" src="https://replit.com/@AndreaSchwertne/ambiente-integrado?embed=true"></iframe>
 
 
 ************************************************
 
-                 --{{2}}--
+
+
+
+### Editando no Repl.it
+
+
+Clique em `Open on Replit` para visualizar melhor as áreas do ambiente.
+
+<iframe frameborder="0" width="100%" height="400px" src="https://replit.com/@AndreaSchwertne/ambiente-integrado?embed=true"></iframe>
+
+
+                 --{{1}}--
 Vamos modificar um pouco o programa. Para isso, você vai ter que clicar em `Fork Repl` para criar sua própria cópia do programa.
 
-                 {{2}}
+                 {{1}}
 ************************************************
 
 
-Clique em `Fork Repl` para poder modificar o programa. <div style="background-color: yellow"> Mantenha a janela do Repl.it sempre aberta  daqui em diante.
+Clique em `Fork Repl` para poder modificar o programa. 
+
+<div style="background-color: yellow"> Mantenha a janela do Repl.it sempre aberta  daqui em diante.
 </div>
 
 ************************************************
@@ -694,8 +732,7 @@ Podemos visualizar a execução deste programa passo-a-passo no  Python Tutor:
 
 
 
-                {{4}}
-************************************************
+
 
 ### Erros acontecem
 
