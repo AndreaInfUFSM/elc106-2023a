@@ -29,10 +29,25 @@ link:     https://cdn.jsdelivr.net/gh/liascript/custom-style/custom.min.css
 
 # Aula 03
 
+- Requisito: exercícios da aula anterior.
+
+- Inicie visualizando a seção de Revisão.
+
+- Novos conteúdos: números pseudoaleatórios, comandos if/else, variáveis contadoras
+
 
 ## Revisão
 
+Principais assuntos da aula passada:
+
+- Primeiro contato com Python no ambiente Repl.it
+
+- Uso e definição de funções em Python
+
+
 ### Ambiente Repl.it
+
+A seguir, algumas imagens de interação com o Repl.it para tarefas frequentes.
 
 #### Entrada no grupo da disciplina
 
