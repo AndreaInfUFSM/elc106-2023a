@@ -79,14 +79,14 @@ Qual das definições de função abaixo vai ser processada sem erros pelo inter
 
 Primeira
 
-```
+```python
 def func(a,b):
   return a+b
 ```
 
 Segunda
 
-```
+```python
 def func(a,b):
   retorne a + b
 ```
@@ -104,7 +104,7 @@ def func(a,b):
 
 Suponha que o código abaixo está no arquivo `main.py` no Repl.it. Ao clicarmos no botão `Run`, o que será mostrado na Console?
 
-```
+```python
 def func(a):
   x = a + 5
   return x
@@ -124,7 +124,7 @@ print(func(2))
 
 Suponha que o código abaixo está no arquivo `main.py` no Repl.it. Ao clicarmos no botão `Run`, o que será mostrado na Console?
 
-```
+```python
 def func(a):
   print('Eu sou uma função')
   x = a + 5
