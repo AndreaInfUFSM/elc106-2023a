@@ -116,7 +116,7 @@ Link: https://www.youtube.com/watch?v=_j9nvYKaOVE
 
 Teste seu conhecimento!
 
-Para cada uma das 5 questões, marque uma resposta e clique em `Check` para verificá-la!
+Para cada uma das 6 questões, marque uma resposta e clique em `Check` para verificá-la!
 
 
 
