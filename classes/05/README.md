@@ -227,6 +227,7 @@ Avance para visualizar execução de 2 exemplos...
 
 ![Animação de laço while. Fonte: https://blog.penjee.com/wp-content/uploads/2016/04/while-loop-modulo-even-numbers-python-animation.gif](img/while-loop-modulo-even-numbers-python-animation.gif)
 
+
 ## Exemplos com laços/loops `while`
 
 - Estruturas de repetição são muito poderosas e usadas nas mais variadas situações.
