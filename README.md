@@ -7,3 +7,9 @@ Material à prova de falhas do Moodle :-)
 - [04](https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc106-2023a/master/classes/04/README.md)
 - [05](https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc106-2023a/master/classes/05/README.md)
 - [06](https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc106-2023a/master/classes/06/README.md)
+- [07](https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc106-2023a/master/classes/07/README.md)
+- [08](https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc106-2023a/master/classes/08/README.md)
+
+Links
+
+- [Parsons](https://pythonsponge.andreaschwertne.repl.co/?bk=.%2Felc106%2Fparsons.json&chid=pseqc01)
