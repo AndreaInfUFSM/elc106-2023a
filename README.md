@@ -14,3 +14,4 @@ Material à prova de falhas do Moodle :-)
 Links
 
 - [Parsons](https://pythonsponge.andreaschwertne.repl.co/?bk=.%2Felc106%2Fparsons.json&chid=pseqc01)
+- [Parsons - Netlify](https://64558a67792bc924a9748cde--magenta-macaron-65dd4b.netlify.app/?bk=.%2Felc106%2Fparsons.json&chid=pseqc01)
