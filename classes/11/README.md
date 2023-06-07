@@ -348,7 +348,7 @@ Combinando CSV com a biblioteca `requests`
 import requests
 import csv
 
-url = "https://archive.ics.uci.edu/ml/machine-learning-databases/00623/DATA.csv"
+url = "http://www.inf.ufsm.br/~andrea/DATA.csv"
 
 # Download the CSV file
 response = requests.get(url)
@@ -376,7 +376,7 @@ Saiba mais em...
 import requests
 import csv
 
-url = "https://archive.ics.uci.edu/ml/machine-learning-databases/00623/DATA.csv"
+url = "http://www.inf.ufsm.br/~andrea/DATA.csv"
 
 # Download the CSV file
 response = requests.get(url)
