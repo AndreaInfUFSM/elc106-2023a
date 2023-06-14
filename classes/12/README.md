@@ -140,19 +140,20 @@ Produzir uma resenha sobre algum material de referência que aborde programaçã
 
 **Objetivo:** 
 
-Produzir um vídeo no estilo "screencast" (gravação da tela do computador), mostrando e explicando uma execução passo-a-passo de um programa que ilustre um tópico de programação em Python. Esse tópico será designado individualmente pela professora para cada estudante, com base nas avaliações anteriores.
+Produzir um vídeo no estilo "screencast" (gravação da tela do computador), explicando passo-a-passo a execução de um programa que ilustre um tópico de programação em Python. Esse tópico será designado individualmente pela professora para cada estudante, com base nas avaliações anteriores.
 
 **Entrega:** até 28/06
 
 **Instruções:**
 
-1. O vídeo deve ter de 2 a 4 minutos.
-2. É necessário disponibilizar o vídeo para visualização pública da turma, em alguma plataforma como Google Drive, YouTube, etc.
-3. O link para o vídeo deve ser entregue no Moodle.
-4. O vídeo deve ter seu nome mencionado em áudio.
-5. Para a execução passo-a-passo, pode ser usado Python Tutor ou outra ferramenta similar.
-6. O vídeo pode ou não incluir sua imagem capturada em câmera (opcional), mas deve obrigatoriamente incluir sua explicação em áudio sobre a execução mostrada na tela (não basta simplesmente gravar cliques na tela, é preciso explicar a execução).
-7. Sugestão de ferramentas para produção do vídeo: [Loom](http://www.loom.com), [Veed](https://www.veed.io), [ScreenPal](https://screenpal.com) ou qualquer outra. Você também pode simplesmente gravar um vídeo com smartphone, desde que a tela do computador apareça nitidamente.
+1. O programa deve ser entregue no Repl.it, no projeto `extraclasse02` (na seção `Avaliação` no Repl.it: https://replit.com/team/elc106-2023a) 
+2. O vídeo deve ter de 2 a 4 minutos.
+3. É necessário disponibilizar o vídeo para visualização pública da turma, em alguma plataforma como Google Drive, YouTube, etc.
+4. O link para o vídeo deve ser entregue no Moodle.
+5. O vídeo deve ter seu nome mencionado em áudio.
+6. Para a execução passo-a-passo, pode ser usado Python Tutor ou outra ferramenta similar.
+7. O vídeo pode ou não incluir sua imagem capturada em câmera (opcional), mas deve obrigatoriamente incluir sua explicação em áudio sobre a execução mostrada na tela (não basta simplesmente gravar cliques na tela, é preciso explicar a execução).
+8. Sugestão de ferramentas para produção do vídeo: [Loom](http://www.loom.com), [Veed](https://www.veed.io), [ScreenPal](https://screenpal.com) ou qualquer outra. Você também pode simplesmente gravar um vídeo com smartphone, desde que a tela do computador apareça nitidamente.
 
 
 
