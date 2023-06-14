@@ -21,3 +21,4 @@ Links
 
 - https://raw.githubusercontent.com/mapaslivres/municipios-br/main/tabelas/municipios.csv
 - https://pythonprinciples.com/splittest-a/lessons/
+- http://brasil.pyladies.com/videos-talks/
