@@ -147,13 +147,14 @@ Produzir um vídeo no estilo "screencast" (gravação da tela do computador), ex
 **Instruções:**
 
 1. O programa deve ser entregue no Repl.it, no projeto `extraclasse02` (na seção `Avaliação` no Repl.it: https://replit.com/team/elc106-2023a) 
-2. O vídeo deve ter de 2 a 4 minutos.
-3. É necessário disponibilizar o vídeo para visualização pública da turma, em alguma plataforma como Google Drive, YouTube, etc.
-4. O link para o vídeo deve ser entregue no Moodle.
-5. O vídeo deve ter seu nome mencionado em áudio.
-6. Para a execução passo-a-passo, pode ser usado Python Tutor ou outra ferramenta similar.
-7. O vídeo pode ou não incluir sua imagem capturada em câmera (opcional), mas deve obrigatoriamente incluir sua explicação em áudio sobre a execução mostrada na tela (não basta simplesmente gravar cliques na tela, é preciso explicar a execução).
-8. Sugestão de ferramentas para produção do vídeo: [Loom](http://www.loom.com), [Veed](https://www.veed.io), [ScreenPal](https://screenpal.com) ou qualquer outra. Você também pode simplesmente gravar um vídeo com smartphone, desde que a tela do computador apareça nitidamente.
+2. O programa deve incluir comentários indicando a origem/autoria do programa e fontes consultadas. O ideal é que você estude exemplos e adapte um código para fazer o vídeo.
+3. O vídeo deve ter de 2 a 4 minutos.
+4. É necessário disponibilizar o vídeo para visualização pública da turma, em alguma plataforma como Google Drive, YouTube, etc.
+5. O link para o vídeo deve ser entregue no Moodle.
+6. O vídeo deve ter seu nome mencionado em áudio.
+7. Para a execução passo-a-passo, pode ser usado Python Tutor ou outra ferramenta similar.
+8. O vídeo pode ou não incluir sua imagem capturada em câmera (opcional), mas deve obrigatoriamente incluir sua explicação em áudio sobre a execução mostrada na tela (não basta simplesmente gravar cliques na tela, é preciso explicar a execução).
+9. Sugestão de ferramentas para produção do vídeo: [Loom](http://www.loom.com), [Veed](https://www.veed.io), [ScreenPal](https://screenpal.com) ou qualquer outra. Você também pode simplesmente gravar um vídeo com smartphone, desde que a tela do computador apareça nitidamente.
 
 
 
