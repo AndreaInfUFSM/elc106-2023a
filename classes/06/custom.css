@@ -37,6 +37,10 @@
   font-size: 28px !important;
 }
 
+.lia-responsive-voice {
+  display: none !important;
+}
+
 
 /* 
 .lia-content{
