@@ -12,6 +12,8 @@ Material à prova de falhas do Moodle :-)
 - [10](https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc106-2023a/master/classes/10/README.md)
 - [11](https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc106-2023a/master/classes/11/README.md)
 - [12](https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc106-2023a/master/classes/12/README.md)
+- [13](https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc106-2023a/master/classes/13/README.md)
+
 
 Links
 
